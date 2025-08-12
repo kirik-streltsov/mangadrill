@@ -109,7 +109,7 @@ git push origin <имя-твоей-ветки>
 
 9. Если пулл реквест замержили (иначе говоря, все прошло успешно и к коду нет замечаний), нужно удалить ветку, связанную с этим пулл реквестом ([Подробнее об этом здесь](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/deleting-and-restoring-branches-in-a-pull-request#deleting-a-branch-used-for-a-pull-request))
 
-<a name="useful-links">
+<a name="useful-links"></a>
 ## 🔗 Полезные ссылки
 
 - [How to Use Git and GitHub in a Team like a Pro](https://www.freecodecamp.org/news/how-to-use-git-and-github-in-a-team-like-a-pro/)
