@@ -1,0 +1,26 @@
+{
+  "name": "shared-types",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "kirik-streltsov <kirik.streltsov0@yandex.ru>",
+  "homepage": "https://github.com/kirik-streltsov/mangadrill#readme",
+  "license": "ISC",
+  "main": "index.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirik-streltsov/mangadrill.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/shared-types.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/kirik-streltsov/mangadrill/issues"
+  }
+}
